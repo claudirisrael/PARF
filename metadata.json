@@ -1,0 +1,5 @@
+{
+  "name": "PARF - Avaliação de Perfil Sabotador",
+  "description": "Teste interativo para identificar o perfil sabotador dominante (Performance, Agradador, Racional, Fugitivo) através de um sistema de escolha forçada.",
+  "requestFramePermissions": []
+}
